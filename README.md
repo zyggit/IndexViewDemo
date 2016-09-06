@@ -1,8 +1,8 @@
 #### 实现动画效果的UITableView索引
 
 #####使用示例:
-* ###### #import "MJNIndexView.h"
-* ###### 遵守协议 MJNIndexViewDataSource
+* #import "MJNIndexView.h"
+* 遵守协议 MJNIndexViewDataSource
 
 #####初始化:
 ```
